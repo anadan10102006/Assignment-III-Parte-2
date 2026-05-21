@@ -1,6 +1,6 @@
 # README: ASSIGNMENT III — Disk Scheduling
 
-**Integrantes:** *[Nombres del equipo]*
+**Integrantes:** *Maria Lucía Castillo García, Juliana González Sánchez y Ana Daniela Paredes Tovar.*
 
 ---
 
