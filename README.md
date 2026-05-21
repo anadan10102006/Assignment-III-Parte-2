@@ -147,6 +147,14 @@ El archivo incluye:
 
 La visualización se realiza abriendo el archivo `index.html` directamente en el navegador **después de haber ejecutado el programa** y generado el `data.js`.
 
+## Demo Online
+
+La visualización también puede verse directamente desde GitHub Pages:
+
+https://anadan10102006.github.io/Assignment-III-Parte-2/
+
+## Gráficas disponibles
+
 ## Gráficas disponibles
 
 **Combined Graph** — Muestra el recorrido de los tres algoritmos superpuestos en una misma gráfica para facilitar la comparación visual. Cada algoritmo tiene su propio color:
