@@ -155,8 +155,6 @@ https://anadan10102006.github.io/Assignment-III-Parte-2/
 
 ## Gráficas disponibles
 
-## Gráficas disponibles
-
 **Combined Graph** — Muestra el recorrido de los tres algoritmos superpuestos en una misma gráfica para facilitar la comparación visual. Cada algoritmo tiene su propio color:
 * Azul → FCFS
 * Naranja → SCAN
